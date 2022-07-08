@@ -1,0 +1,41 @@
+Colleges,Category,Course,Total Fee,Credit,Duration(Year)
+Premier College,Private,BBA,80000,180,4
+Premier College,Private,BIT,40000,150,3
+Rehdon College,Private,BBA,90000,160,4
+Rehdon College,Private,BIT,100000,180,3
+Supreme College ,Private,BBA,95000,160,4
+Supreme College ,Private,BIT,90000,150,3
+The Times International College,Private,BBA,105000,170,4
+The Times International College,Private,BIT,110000,190,3
+Xavier International College ,Private,BBA,115000,180,4
+Xavier International College ,Private,BIT,125000,190,3
+Prime College,Private,BBA,100000,185,4
+Prime College,Private,BIT,105000,190,3
+Trinity Int'l College ,Private,BBA,110000,170,4
+Trinity Int'l College ,Private,BIT,120000,190,3
+Divya Gyan College ,Private,BBA,105000,180,4
+Divya Gyan College ,Private,BIT,115000,185,3
+Saraswati Multiple Campus,Public,BBA,90000,150,4
+Saraswati Multiple Campus,Public,BBS,95000,170,3
+Pashupati Multiple Campus PMC,Public,BBA,100000,160,4
+Pashupati Multiple Campus PMC,Public,BBS,105000,170,3
+Shanker Dev Campus.,Public,BBA,95000,150,4
+Shanker Dev Campus.,Public,BBS,105000,160,3
+Public Youth Campus,Public,BBA,110000,180,4
+Public Youth Campus,Public,BIT,115000,190,3
+Maiya Devi Girls College,Women,BBA,90000,150,4
+Maiya Devi Girls College,Women,BIT,100000,170,3
+Summaya Girls College,Women,BBA,100000,160,4
+Summaya Girls College,Women,BIT,115000,180,3
+Ayesha Siddiqua Girls College,Women,BBA,105000,150,4
+Ayesha Siddiqua Girls College,Women,BIT,115000,180,3
+Bagmati Community Campus,Community,BBA,95000,175,4
+Bagmati Community Campus,Community,BBS,105000,180,3
+Geetamata Community College,Community,BBA,85000,165,4
+Geetamata Community College,Community,BIT,110000,180,3
+Balaju School Of Engineering & Technology,Technical,Civil Engineering,190000,190,5
+Balaju School Of Engineering & Technology,Technical,BIT,105000,190,3
+ACME Engineering College,Technical,Civil Engineering,200000,190,5
+ACME Engineering College,Technical,BIT,115000,180,3
+Kantipur Technical College,Technical,Civil Engineering,220000,200,5
+Kantipur Technical College,Technical,BIT,130000,190,3
